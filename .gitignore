@@ -1,0 +1,5 @@
+rps-skins/
+
+# The tools live in their own local git repo inside this folder and are
+# deliberately NOT part of the manual repo.
+Claude outputs/
